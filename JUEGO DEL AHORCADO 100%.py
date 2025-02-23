@@ -1,3 +1,7 @@
+# Apertura del juego
+
+print("Bienvenidos al Juego del Ahorcado")
+
 #Ingreso manual del registro del usuario por su nombre
 nombre = input("Jugador uno, introduce tu nombre: ") 
 print("Hola, " + nombre + "")
