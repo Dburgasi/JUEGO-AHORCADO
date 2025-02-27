@@ -16,6 +16,17 @@ CONDICIONALES
 if y else permite ejecutar bloques de código diferentes dependiendo de si una condición es verdadera o falsa.
 La palabra reservada while ejecuta una porción de código una y otra vez hasta que la condición especificada sea falsa; o, dicho de otro modo, ejecuta una porción de código mientras que la condición sea verdadera
 La instrucción for permite repetir una instrucción o una instrucción compuesta un número especificado de veces.
-![images023](https://github.com/user-attachments/assets/a327d2d9-1f93-48e3-8ada-30b1fa806b93)
 
 Fecha 26/02/2025
+
+
+![images023](https://github.com/user-attachments/assets/8cc47301-f9c1-4540-80e7-1af7c1027c93)
+
+
+
+
+
+
+
+
+
