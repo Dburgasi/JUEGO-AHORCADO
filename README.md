@@ -1,4 +1,5 @@
 JUEGO DEL AHORCADO
+
 INTRODUCCIÓN
 Con el pasar de los años el juego del ahorcado ha ido evolucionando y diseñándose en diversas plataformas virtuales, creando así entretenimiento a tantas generaciones. Su uso ha sido utilizado para entornos educativos, reuniones familiares y eventos sociales.
  En el presente trabajo se desarrolló el juego del ahorcado a través de una herramienta de programación Visual Studio Code, permitiendo escribir, depurar, y ejecutar códigos de manera fácil. Se utilizo Python por su versatilidad e implementación de funciones, condicionales, bucles y estructura de datos para el desarrollo del software.
